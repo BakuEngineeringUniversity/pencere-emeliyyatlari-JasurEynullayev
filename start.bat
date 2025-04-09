@@ -1,3 +1,3 @@
 @echo off
-cd /d "D:\my electron app"
+cd /d "D:\My Electron App"
 npm start
